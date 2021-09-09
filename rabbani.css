@@ -1,0 +1,65 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.favourite-games-bg-container{
+	background-image: url("https://www.telecomasia.net/upload/sprint.editor/64b/1xbet-mobile-app.png");
+height: 150vh;
+background-size: cover;
+padding:50px;
+
+}
+.favourite-games-heading{
+	color:#ffffff;
+	font-family:"Roboto";
+	font-size:28px;
+	font-weight:bold;
+	text-align:center;
+}
+.favourite-games-card-container{
+	
+	background-color:orange;
+	border-radius:20px;
+	margin: 10px;
+	
+}
+.favourite-games-card-heading{
+	color:black;
+	font-family:"Roboto";
+	font-size:30px;
+	font-weight:bold;
+	padding:25px;
+	
+}
+.favourite-games-card-discription{
+	color:black;
+	font-family:"Monoto";
+	font-size:50px;
+}
+.favourite-games-card-image{
+	width:200px;
+	height:240px;
+	
+	background-size:cover;
+	
+	
+}
+.favourite-games-card-container-2{
+	
+	background-color: pink;
+	border-radius:20px;
+	margin: 10px;
+	
+}
+.favourite-games-card-container-3{
+	
+	background-color: blue;
+	border-radius:20px;
+	margin: 10px;
+	
+}
+.favourite-games-card-container-4{
+	
+	background-color: green;
+	border-radius:20px;
+	margin: 10px;
+	
+}
